@@ -1,5 +1,4 @@
 require.config({
-  baseUrl: 'js/lib',
   paths: {
     'jquery': 'jquery',
     'moment': 'moment'
