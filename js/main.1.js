@@ -1,9 +1,4 @@
-require.config({
-  paths: {
-    'jquery': 'jquery',
-    'moment': 'moment'
-  }
-})
+// alert('hello world')
 
 require(['jquery', 'moment'], function ($, moment) {
   console.log($)
